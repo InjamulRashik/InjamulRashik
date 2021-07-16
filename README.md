@@ -1,3 +1,4 @@
+![](Rashik_Readme.gif)
 ### Hi there 👋
 
 <!--
