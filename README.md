@@ -1,1 +1,1 @@
-![](Rashik_Readme.gif)
+<!-- ![](Rashik_Readme.gif) -->
